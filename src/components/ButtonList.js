@@ -12,6 +12,10 @@ const ButtonList = () => {
       <Button name ='Football'/>
       <Button name ='Tech'/>
       <Button name ='Cooking'/>
+      <Button name ='India'/>
+      <Button name ='Germany'/>
+      <Button name ='cooking'/>
+
     </div>
   )
 }
